@@ -30,7 +30,7 @@ config SSD1306
 	default y
 
 config SSD1306_REVERSE_MODE
-	default y8
+	default y
 
 endif # ZMK_DISPLAY
 
